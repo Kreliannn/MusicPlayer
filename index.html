@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>music player</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <div class="page2" id="page2">
+    <div class="back">
+      <div id="back">
+        <img src="imgWebsite/back.png">
+      </div>
+    </div>
+    
+    <div class="musicImage">
+      <img src="forlovers.jpg" id="p2Img">
+    </div>
+    
+    <div class="Mname">
+      <h3 id="p2Title">For Lovers</h3>
+      <p id="p2Author">by Lamp</p>
+      
+    </div>
+    
+    <div class="timer">
+      <div class="line"></div>
+      <div  id="circle" class="circle"></div>
+      <div class="h">
+        <b id="num1">0:00</b>
+        <b id="num2">0:00</b>
+      </div>
+      
+    </div>
+    
+    <div class="next">
+      <div class="left">
+        <img src="imgWebsite/left.png" id="left">
+      </div>
+      <div class="center">
+        <img src="imgWebsite/pause.png" id="center">
+      </div>
+      <div class="right">
+        <img src="imgWebsite/right.png" id="right">
+      </div>
+    </div>
+    
+  </div>
+ 
+  <audio src="forlovers.mp3" controls id="audio"> </audio>
+ 
+  
+  <div class="page1" id="page1">
+     
+    <div class="profile">
+      <h2>Serenity Sounds</h2>
+      <h2 class="a">Playlist</h2>
+    </div>
+    <div class="songContainer" id="songContainer">
+     <br>
+      
+    </div>
+    
+   <div class="musicBottom" id="musicBottom">
+    <div class="div1">
+      <img id="bImg" src="forlovers.jpg">
+    </div>
+    <div class="div2">
+      <h2 id="bTitle">For Lovers</h2>
+      <p id="bAuthor">by Lamp</p>
+    </div>
+    <div class="div1">
+    <img id="bpause" src="imgWebsite/pause.png">
+    </div>
+  </div>
+  </div>
+  <script src="Songs.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
