@@ -15,6 +15,7 @@ A simple web-based music player built with **HTML, CSS, and JavaScript**. It all
 
 ## 📸 Preview
 ![Music Player Screenshot](https://github.com/user-attachments/assets/51d06776-6aea-424b-8d49-a1e8ac62c5a2)
+![Music Player Screenshot](https://github.com/Kreliannn/MusicPlayer/issues/2#issue-2946030011)
 
 ---
 
