@@ -2,11 +2,15 @@
 
 A simple web-based music player built with **HTML, CSS, and JavaScript**. It allows users to play, pause, and skip songs with an intuitive interface.
 
+## 🎥 Demo Video  
+📹 [Watch on TikTok](https://www.tiktok.com/@krelq/video/7430802821680811271) 
+
 ## ✨ Features
 - 🎶 Play and pause music
 - ⏭️ Skip to the next song
 - 📃 Preloaded playlist with multiple songs
 - 🎨 Simple and user-friendly design
+- 
 
 ## 🛠 Technologies Used
 - **HTML** – Structure of the player
